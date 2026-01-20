@@ -1,0 +1,7 @@
+{
+  "name": "E-POINTY",
+  "description": "Système de gestion scolaire et universitaire avec suivi de présence par QR Code.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
